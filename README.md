@@ -18,5 +18,6 @@
 
 ---
 [![wakatime](https://wakatime.com/badge/user/018b4231-5df1-4080-8e70-8159ef76f327.svg)](https://wakatime.com/@018b4231-5df1-4080-8e70-8159ef76f327)
+[![Me's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=giovanni2002)](https://github.com/Giovanniricotta2002)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
