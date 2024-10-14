@@ -1,4 +1,6 @@
 
+[![](https://visitcount.itsvg.in/api?id=Giovanni2002&icon=5&color=0)](https://visitcount.itsvg.in)
+---
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/giovanni8483) 
 
@@ -12,7 +14,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Giovanni2002&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=Giovanni2002&icon=5&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
