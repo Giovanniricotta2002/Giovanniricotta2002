@@ -16,6 +16,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Giovanni2002&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-
+---
+[![wakatime](https://wakatime.com/badge/user/018b4231-5df1-4080-8e70-8159ef76f327.svg)](https://wakatime.com/@018b4231-5df1-4080-8e70-8159ef76f327)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
